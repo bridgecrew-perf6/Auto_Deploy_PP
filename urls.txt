@@ -1,2 +1,5 @@
 https://github.com/ponnpradeep/Auto_Deploy_PP.git
-d3uomuz04hhff6.cloudfront.net
+
+Cloud Front URL: http://d3a028flzldk4p.cloudfront.net/#/employees
+
+Front End URL: http://udapeople-f75f5b8.s3.amazonaws.com/index.html#/employees
